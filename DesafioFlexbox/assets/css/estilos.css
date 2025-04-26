@@ -1,0 +1,137 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: flex;
+    width: 100vw;
+}
+
+.contacto img {
+    width: 1.5em;
+    border-radius: 50%;
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 50%;
+    margin: 0;
+    padding: 0;
+    margin-right: .3em;
+    margin-left: .3em;
+}
+
+.contactos {
+    width: 20%;
+}
+.mensaje {
+    width: 80%;
+}
+
+.usuario img {
+    width: 2.8rem;
+    height: 2.8rem;
+    border-radius: 50%;
+    margin: 0;
+    padding: 0;
+    margin-right: .3em;
+    padding-left: .5em;
+}
+.container-mensaje {
+    background-color: #e1dfd157;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.container-mensaje img {
+    width: 30%;
+}
+
+.usuario {
+    
+    display: flex;
+    
+   
+    
+    align-items: center;
+    
+}
+i {
+    margin: .2em;
+   
+}
+.iconos{
+    margin-right: 1em;
+}
+.usuario p {
+    
+    font-size: .6em;
+    margin-top: 0.3em;
+    margin-left: 0.1em;
+    margin-right: 0.3em;
+
+}
+strong {
+    font-size: 18px;
+    
+}
+.strong1{
+    font-size: 1em;
+}
+.contacto p {
+    margin: 0;
+    margin-left: 0.6em;
+
+}
+
+
+
+button {
+    
+    width: 80%;
+    height: 4em;
+    margin: 1em;
+    border-radius: 5%;
+    background-color: rgba(137, 43, 226, 0.644);
+    
+   
+}
+
+.boton {
+    
+    text-align: center;
+    border-top: 1.7px solid gainsboro;
+   
+   
+}
+
+.contacto {
+    border-bottom: 1.5px solid gainsboro;
+    border-top: 1.5px solid gainsboro;
+    border-left: 1.5px solid gainsboro;
+    display: flex;
+    height: 9.2vh;
+    align-items: center;
+    
+    
+}
+.contactos-container{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.principal {
+    
+    display: flex;
+    justify-content: space-between;
+    height: 8vh;
+    padding-left: .5em;
+    align-items: center;
+    
+    
+    
+    
+}
